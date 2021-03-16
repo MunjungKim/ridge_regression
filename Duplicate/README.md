@@ -9,4 +9,3 @@ https://www.kaggle.com/ucsandiego/carbon-dioxide?select=archive.csv
 
 `Ridge.py` :  Standarization function and Ridge regression function
 `window_make.py` : Making lists of time series sized p (window size) using sliding window method.
-`Final_version.ipynb` : Experiment the codes with Co2 data
